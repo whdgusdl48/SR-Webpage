@@ -1,5 +1,10 @@
 # SR-Webpage
 
+## Purpose
+
+- We provide Super Resolution Image via Webpage
+- upScaling Factor => x1, x2, x3, x4(Furturmore)
+
 ## Dependencies
 
 ### Hardware
